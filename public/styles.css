@@ -1,0 +1,14 @@
+body {
+    background-color: black;
+}
+
+div {
+    background-color: #587be3;
+    width: 100px;
+    height: 100px;
+    filter: drop-shadow(10px 10px 10px #A4BBFF);
+}
+
+h1 {
+    color: #A4BBFF;
+}
